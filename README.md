@@ -10,7 +10,8 @@ I'm a Full Stack Developer with a passion for solving complex problems and a str
 - 🧠 **Problem-Solving**: Strong analytical skills with a focus on efficient, clean code
 - 📚 **Data Structures & Algorithms**: Experienced in optimizing performance and implementing best practices
 
-- 📫 How to reach me **iamganeshraod@gmail.com**
+
+ 📫 How to reach me **iamganeshraod@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
